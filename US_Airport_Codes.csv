@@ -1,0 +1,384 @@
+FAA_Code,Destination
+BHM,Birmingham
+DHN,Dothan
+HSV,Huntsville
+MOB,Mobile
+MGM,Montgomery
+MRI,Anchorage
+ANC,Anchorage
+BET,Bethel
+CDV,Cordova
+SCC,Deadhorse
+DLG,Dillingham
+FAI,Fairbanks
+GST,Gustavus
+HOM,Homer
+JNU,Juneau
+ENA,Kenai
+KTN,Ketchikan
+AKN,King Salmon
+AKW,Klawock
+ADQ,Kodiak
+OTZ,Kotzebue
+OME,Nome
+PSG,Petersburg
+SIT,Sitka
+DUT,Unalaska
+BRW,Utqia_vik
+WRG,Wrangell
+YAK,Yakutat
+FLG,Flagstaff
+IWA,Mesa
+PGA,Page
+PHX,Phoenix
+PRC,Prescott
+TUS,Tucson
+NYL,Yuma
+XNA,Fayetteville
+FSM,Fort Smith
+LIT,Little Rock
+TXK,Texarkana
+ACV,Arcata/Eureka
+BFL,Bakersfield
+BUR,Burbank
+FAT,Fresno
+LGB,Long Beach
+LAX,Los Angeles
+MRY,Monterey
+OAK,Oakland
+ONT,Ontario
+SNA,Santa Ana
+PSP,Palm Springs
+RDD,Redding
+SMF,Sacramento
+SAN,San Diego
+SFO,San Francisco
+SJC,San Jose
+SBP,San Luis Obispo
+SBA,Santa Barbara
+SMX,Santa Maria
+STS,Santa Rosa
+SCK,Stockton
+ALS,Alamosa
+ASE,Aspen
+COS,Colorado Springs
+DEN,Denver
+DRO,Durango
+EGE,Eagle/Vail
+GJT,Grand Junction
+GUC,Gunnison
+HDN,Hayden
+MTJ,Montrose
+BDL,Hartford
+HVN,New Haven
+ILG,Wilmington
+DAB,Daytona Beach
+FLL,Fort Lauderdale
+RSW,Fort Myers
+VPS,Fort Walton Beach
+GNV,Gainesville
+JAX,Jacksonville
+EYW,Key West
+MLB,Melbourne
+MIA,Miami
+MCO,Orlando
+ECP,Panama City
+PNS,Pensacola
+PGD,Punta Gorda
+SFB,Sanford
+SRQ,Sarasota
+PIE,St. Petersburg
+TLH,Tallahassee
+TPA,Tampa
+PBI,West Palm Beach
+ABY,Albany
+ATL,Atlanta
+AGS,Augusta
+BQK,Brunswick
+CSG,Columbus
+MCN,Macon
+SAV,Savannah
+VLD,Valdosta
+ITO,"Hilo, Hawaii"
+HNL,"Honolulu, Oahu"
+OGG,"Kahului, Maui"
+KOA,"Kailua-Kona, Hawaii"
+MKK,"Kaunakakai, Molokai"
+LNY,"Lanai City, Lanai"
+LIH,"Lihue, Kauai"
+BOI,Boise
+SUN,Hailey / Sun Valley
+IDA,Idaho Falls
+LWS,Lewiston
+PIH,Pocatello
+TWF,Twin Falls
+BLV,Belleville
+BMI,Bloomington / Normal
+CMI,Champaign / Urbana / Savoy
+MDW,Chicago
+ORD,Chicago
+MWA,Marion
+MLI,Moline
+PIA,Peoria
+RFD,Rockford
+SPI,Springfield
+EVV,Evansville
+FWA,Fort Wayne
+IND,Indianapolis
+SBN,South Bend
+CID,Cedar Rapids
+DSM,Des Moines
+DBQ,Dubuque
+SUX,Sioux City
+ALO,Waterloo
+GCK,Garden City
+HYS,Hays
+MHK,Manhattan
+SLN,Salina
+ICT,Wichita
+CVG,Cincinnati/Covington
+LEX,Lexington
+SDF,Louisville
+OWB,Owensboro
+PAH,Paducah
+AEX,Alexandria
+BTR,Baton Rouge
+LFT,Lafayette
+LCH,Lake Charles
+MLU,Monroe
+MSY,New Orleans
+SHV,Shreveport
+BGR,Bangor
+PWM,Portland
+PQI,Presque Isle
+RKD,Rockland
+BWI,Baltimore
+HGR,Hagerstown
+SBY,Salisbury
+BOS,Boston
+HYA,Hyannis
+ACK,Nantucket
+MVY,Vineyard Haven
+ORH,Worcester
+APN,Alpena
+DTW,Detroit
+ESC,Escanaba
+FNT,Flint
+GRR,Grand Rapids
+CMX,Hancock
+IMT,Iron Mountain
+AZO,Kalamazoo
+LAN,Lansing
+SAW,Marquette
+MKG,Muskegon
+PLN,Pellston
+MBS,Saginaw
+CIU,Sault Ste. Marie
+TVC,Traverse City
+BJI,Bemidji
+BRD,Brainerd
+DLH,Duluth
+HIB,Hibbing
+MSP,Minneapolis-St. Paul
+RST,Rochester
+STC,St. Cloud
+GTR,Columbus
+GPT,Gulfport / Biloxi
+PIB,Hattiesburg / Laurel
+JAN,Jackson
+MEI,Meridian
+TUP,Tupelo
+BBG,Branson
+COU,Columbia
+TBN,Fort Leonard Wood / Waynesville
+JLN,Joplin
+MCI,Kansas City
+STL,St. Louis
+SGF,Springfield
+BIL,Billings
+BZN,Bozeman
+BTM,Butte
+GTF,Great Falls
+HLN,Helena
+GPI,Kalispell
+MSO,Missoula
+WYS,West Yellowstone
+GRI,Grand Island
+EAR,Kearney
+LNK,Lincoln
+LBF,North Platte
+OMA,Omaha
+BFF,Scottsbluff
+BVU,Boulder City
+EKO,Elko
+LAS,Las Vegas
+RNO,Reno
+MHT,Manchester
+PSM,Portsmouth
+ACY,Atlantic City
+EWR,Newark
+TTN,Trenton
+ABQ,Albuquerque
+HOB,Hobbs
+ROW,Roswell
+SAF,Santa Fe
+ALB,Albany
+BGM,Binghamton
+BUF,Buffalo
+ELM,Elmira / Corning
+ITH,Ithaca
+JFK,New York
+LGA,New York
+ISP,Islip / Brookhaven
+SWF,Newburgh
+IAG,Niagara Falls
+OGS,Ogdensburg
+PBG,Plattsburgh
+ROC,Rochester
+SYR,Syracuse
+ART,Watertown
+HPN,White Plains
+AVL,Asheville
+CLT,Charlotte
+JQF,Concord
+FAY,Fayetteville
+GSO,Greensboro
+PGV,Greenville
+OAJ,Jacksonville
+EWN,New Bern
+RDU,Raleigh
+ILM,Wilmington
+BIS,Bismarck
+DIK,Dickinson
+FAR,Fargo
+GFK,Grand Forks
+JMS,Jamestown
+MOT,Minot
+XWA,Williston
+CAK,Akron / Canton
+CLE,Cleveland
+CMH,Columbus
+LCK,Columbus
+DAY,Dayton
+TOL,Toledo
+LAW,Lawton
+OKC,Oklahoma City
+SWO,Stillwater
+TUL,Tulsa
+EUG,Eugene
+MFR,Medford
+OTH,North Bend
+PDX,Portland
+RDM,Redmond
+ABE,Allentown
+ERI,Erie
+MDT,Harrisburg
+LBE,Latrobe
+PHL,Philadelphia
+PIT,Pittsburgh
+UNV,State College
+AVP,Wilkes-Barre / Scranton
+BID,Block Island
+PVD,Providence
+WST,Westerly
+CHS,Charleston
+CAE,Columbia
+FLO,Florence
+GSP,Greenville
+HXD,Hilton Head
+MYR,Myrtle Beach
+ABR,Aberdeen
+PIR,Pierre
+RAP,Rapid City
+FSD,Sioux Falls
+ATY,Watertown
+CHA,Chattanooga
+TYS,Knoxville
+MEM,Memphis
+BNA,Nashville
+TRI,Tri-Cities
+ABI,Abilene
+AMA,Amarillo
+AUS,Austin
+BPT,Beaumont
+BRO,Brownsville
+CLL,College Station
+CRP,Corpus Christi
+DAL,Dallas
+DFW,Dallas–Fort Worth
+DRT,Del Rio
+ELP,El Paso
+HRL,Harlingen
+IAH,Houston
+HOU,Houston
+GRK,Killeen
+LRD,Laredo
+GGG,Longview
+LBB,Lubbock
+MFE,McAllen
+MAF,Midland / Odessa
+SJT,San Angelo
+SAT,San Antonio
+TYR,Tyler
+ACT,Waco
+SPS,Wichita Falls
+CDC,Cedar City
+CNY,Moab
+OGD,Ogden
+PVU,Provo
+SGU,St. George
+SLC,Salt Lake City
+BTV,Burlington
+CHO,Charlottesville
+LYH,Lynchburg
+PHF,Newport News
+ORF,Norfolk
+RIC,Richmond
+ROA,Roanoke
+SHD,Staunton / Waynesboro / Harrisonburg
+DCA,"Washington, D.C. / Arlington"
+IAD,"Washington, D.C. / Dulles / Chantilly"
+BLI,Bellingham
+ORS,Eastsound
+PAE,Everett
+FHR,Friday Harbor
+PSC,Pasco
+PUW,"Pullman / Moscow, Idaho"
+BFI,Seattle
+SEA,Seattle / Tacoma
+GEG,Spokane
+ALW,Walla Walla
+EAT,Wenatchee
+YKM,Yakima
+CRW,Charleston
+CKB,Clarksburg
+HTS,Huntington
+LWB,Lewisburg
+ATW,Appleton
+EAU,Eau Claire
+GRB,Green Bay
+LSE,La Crosse
+MSN,Madison
+MKE,Milwaukee
+CWA,Mosinee
+RHI,Rhinelander
+CPR,Casper
+COD,Cody
+GCC,Gillette
+JAC,Jackson
+LAR,Laramie
+RIW,Riverton
+RKS,Rock Springs
+SHR,Sheridan
+GUM,Agana / Tamuning
+GSN,"Obyan, Saipan Island"
+TNI,Tinian Island
+BQN,Aguadilla
+RVR,Ceiba
+CPX,Culebra
+PSE,Ponce
+SIG,San Juan
+SJU,San Juan / Carolina
+VQS,Vieques
+STT,"Charlotte Amalie, St. Thomas"
+STX,"Christiansted, St. Croix"
